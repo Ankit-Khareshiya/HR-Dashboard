@@ -5,7 +5,7 @@ This project showcases the end-to-end process of generating, transforming, and a
 
 ---
 ## 📖 Project Overview
-![Data Architecture](docs/Medallion_Architecture.png)
+
 This project involves:
 
 1. **Synthetic Data Generation** — Creating a realistic HR dataset of **8,950 employees** using Python and Faker.
@@ -33,6 +33,8 @@ This project involves:
 To provide HR managers with a comprehensive analytical dashboard for workforce insights — combining **summary-level metrics** and **individual employee records**.
 
 ## 📊 Dashboard Design
+
+![HR Dashboard](images/HR_Dashboard.png)
 
 ### **Summary View**
 
