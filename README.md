@@ -1,7 +1,7 @@
 # HR Dashboard Project
 
 Welcome to the **HR Dashboard Project** repository! 🚀  
-This project showcases the end-to-end process of generating, transforming, and analyzing HR data through a fully functional dashboard. Designed as a **portfolio-ready data analytics project**, it combines **data engineering**, **data analysis**, and **visual storytelling** for HR insights.
+This project showcases the end-to-end process of generating, transforming, and analyzing HR data through a fully functional dashboard.
 
 ---
 ## 📖 Project Overview
@@ -12,7 +12,7 @@ This project involves:
     
 2. **Data Transformation & Cleansing** — Validating and standardizing employee details (dates, salaries, demographics).
     
-3. **Dashboard Development** — Building a Power BI or Tableau dashboard to visualize key HR insights.
+3. **Dashboard Development** — Building a Tableau dashboard to visualize key HR insights.
 
 
 🎯 **Core Focus Areas:**
@@ -75,8 +75,6 @@ Divided into three main analytical sections:
 ## 📂 Repository Structure
 ```
 HR-Dashboard-project/
-│
-├── dataset/                            # Raw datasets used for the project
 │
 ├── mockups.drawio/                     # Draw.io file for dashboard layout
 │
